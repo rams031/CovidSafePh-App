@@ -5,7 +5,7 @@
 
 
 # About
-Application use [NewsApi](https://newsapi.org/) , [Postman](https://covid-19-apis.postman.com/) To make data visible 
+Application use [NewsApi](https://newsapi.org/) , [Postman](https://covid-19-apis.postman.com/) To make data visible,
 Feel Free to use :)
 
 
