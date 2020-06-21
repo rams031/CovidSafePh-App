@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "coapp",
-    "slug": "coapp",
+    "name": "CovidSafePh",
+    "slug": "CovidSafePh",
     "platforms": [
       "ios",
       "android",
@@ -9,9 +9,9 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/myicon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/mysplashicon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,6 +23,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "testapp.CovidSafePh",
+      "versionCode": 1
     }
   }
 }
