@@ -5,11 +5,6 @@
 <p> Application use [NewsApi](https://newsapi.org/), [Postman](https://covid-19-apis.postman.com/) To make data visible </p>
 
 ## Installing
-Install
-```
-[Expo IO CLI](https://expo.io/)
-[Node Js](https://nodejs.org/en/)
-```
 Clone Repository
 ```
 git clone https://github.com/rams031/CovidSafePh-App
@@ -22,5 +17,14 @@ To run the app
 ```
 Project Directory: Expo Start
 ```
+Dont Forget to Install
+```
+Expo IO CLI (https://expo.io/)
+Node Js (https://nodejs.org/en/)
+```
+
+|                                 |                             |                              |
+| :-----------------------------: | :-------------------------: | :--------------------------: |
+| ![img-1](components/test1.JPG '1') | ![img-2](components/test2JPG '2') | ![img-3](components/test3G '3') |
 
 
