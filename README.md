@@ -2,7 +2,7 @@
 <p>Experimental app for tracking status of COVID-19 pandemic with news feauture and reminders. </p>
 
 # About
-<p> Application use [NewsApi](https://newsapi.org/), [Postman](https://covid-19-apis.postman.com/) To make data visible </p>
+<p> Application use *[NewsApi](https://newsapi.org/),[React Native](https://reactnative.dev/) , [Postman](https://covid-19-apis.postman.com/) To make data visible </p>
 Feel Free to use :)
 
 ## Installing
