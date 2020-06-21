@@ -25,6 +25,6 @@ Node Js (https://nodejs.org/en/)
 
 |                                 |                             |                              |
 | :-----------------------------: | :-------------------------: | :--------------------------: |
-| ![img-1](components/test1.JPG '1') | ![img-2](components/test2JPG '2') | ![img-3](components/test3G '3') |
+| ![img-1](components/test1.jpg '1') | ![img-2](components/test2.jpg '2') | ![img-3](components/test3.jpg '3') |
 
 
