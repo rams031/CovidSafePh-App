@@ -1,7 +1,7 @@
 # CovidSafePh-App
 <p>Experimental app for tracking status of COVID-19 pandemic with news feature and health reminders. </p>
 
-![Applogo](/(components/tarp.jpg)/logo.png)
+![Applogo](/(components/tarp.png)/logo.png)
 
 
 # About
