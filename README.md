@@ -1,9 +1,12 @@
 # CovidSafePh-App
 <p>Experimental app for tracking status of COVID-19 pandemic with news feature and health reminders. </p>
 
+(components/tart.jpg)
+
 # About
 Application use [NewsApi](https://newsapi.org/) , [Postman](https://covid-19-apis.postman.com/) To make data visible 
 Feel Free to use :)
+
 
 ## Installing
 Clone Repository
@@ -33,7 +36,7 @@ Node Js (https://nodejs.org/en/)
 
 |                             |                             |                             |
 | :-------------------------: | :-------------------------: | :-------------------------: |
-| ![img-1](components/test 4.jpg '1') | ![img-2](components/test5.jpg '2') | ![img-3](components/test1.jpg '3') |
+| ![img-1](components/test.jpg '1') | ![img-2](components/test5.jpg '2') | ![img-3](components/test1.jpg '3') |
 
 |                             |                             |                             |
 | :-------------------------: | :-------------------------: | :-------------------------: |
