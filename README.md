@@ -1,8 +1,8 @@
 # CovidSafePh-App
-<p>Experimental app for tracking status of COVID-19 pandemic with news feauture and reminders. </p>
+<p>Experimental app for tracking status of COVID-19 pandemic with news feature and health reminders. </p>
 
 # About
-Application use *[NewsApi](https://newsapi.org/), [Postman](https://covid-19-apis.postman.com/) To make data visible 
+Application use [NewsApi](https://newsapi.org/) , [Postman](https://covid-19-apis.postman.com/) To make data visible 
 Feel Free to use :)
 
 ## Installing
