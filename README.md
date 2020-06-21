@@ -1,1 +1,6 @@
-"# CovidSafePh-App" 
+# CovidSafePh-App
+
+# Getting Started
+
+
+## Installing
