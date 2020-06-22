@@ -4,6 +4,7 @@ import styles from '../css/styles.js';
 import Imgbar from '../components/imagebar.js';
 import { material , sanFranciscoWeights , iOSUIKit  , systemWeights , human} from 'react-native-typography';
 import ScrollUp from 'react-native-scroll-up';
+import { APIKEY } from '../Apikey/Apikey.js';
 
 
 export default class Newsinfo extends React.Component {
@@ -25,7 +26,7 @@ export default class Newsinfo extends React.Component {
       
 
     componentDidMount () {
-        fetch('http://newsapi.org/v2/top-headlines?country=ph&category=health&apiKey=dda6fd6c891441b7a0457c27f8596d0c')
+        fetch('http://newsapi.org/v2/top-headlines?country=ph&category=health&apiKey=' + APIKEY )
         .then((response) => response.json())
         .then((json) => {
           this.setState({ 
