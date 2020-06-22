@@ -8,9 +8,18 @@
 Application use [NewsApi](https://newsapi.org/) , [Postman](https://covid-19-apis.postman.com/) To make data visible,
 Feel Free to use :)
 
+# Note
+You should create your own API keys. Change the [NewsApi](https://newsapi.org/) keys on `src/Apikey/Apikey.js`
+
 
 ## Installing
-Clone Repository
+Must Have
+```
+Expo App (Available on Playstore or Appstore)
+Expo IO CLI (https://expo.io/)
+Node Js (https://nodejs.org/en/)
+```
+Clone Repository or download Repository
 ```
 git clone https://github.com/rams031/CovidSafePh-App
 ```
@@ -22,11 +31,7 @@ To run the app
 ```
 Project Directory: Expo Start
 ```
-Dont Forget to Install
-```
-Expo IO CLI (https://expo.io/)
-Node Js (https://nodejs.org/en/)
-```
+
 
 ## Built With
 
