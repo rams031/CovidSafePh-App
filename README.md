@@ -9,7 +9,7 @@ Application use [NewsApi](https://newsapi.org/) , [Postman](https://covid-19-api
 Feel Free to use :)
 
 # Note
-You should create your own API keys. Change the [NewsApi](https://newsapi.org/) keys on `src/Apikey/Apikey.js`
+You should create your own API keys. Change the [NewsApi](https://newsapi.org/) keys on `/Apikey/Apikey.js`
 
 
 ## Installing
